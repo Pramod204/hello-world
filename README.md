@@ -1,4 +1,4 @@
 # hello-world
-Author - Pramod Kumar
+Author - Pramod Kumar patel
 <br>
 This is my first Git Repository
